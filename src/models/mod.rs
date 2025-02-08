@@ -1,5 +1,3 @@
-// src/models/mod.rs
-
-pub mod user;
-pub mod bot;
-pub mod trade;
+pub mod user_model;
+pub mod trade_model;
+pub mod bot_model;
